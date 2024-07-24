@@ -1,6 +1,4 @@
-﻿using AelPay.Models.Entities;
-
-namespace WildPay.Models.Entities
+﻿namespace WildPay.Models.Entities
 {
     public class Expenditure
     {
